@@ -80,13 +80,6 @@ def main(dsname,epoch,seed):
         x_val['mean']= x_val.mean(axis=1)  
         x_val['std']= x_val.std(axis=1) 
 
-    elif dsname=='gotov':
-        dataset=go_prepare_dataset(defaults['path'])
-        dataset.get_data()
-        t_file=['GOTOV21','GOTOV11','GOTOV08','GOTOV33','GOTOV28','GOTOV7','GOTOV05','GOTOV10','GOTOV31']
-        test_file = ['GOTOV20','GOTOV29','GOTOV16']
-        v_file =['GOTOV17','GOTOV35', 'GOTOV06']
-
     if dsname!='skoda':
         dataset.get_data()
         print(f"\nDataset loading finished : {dsname} ....................................")
