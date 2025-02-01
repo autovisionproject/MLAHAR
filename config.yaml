@@ -1,0 +1,88 @@
+datasets:
+  gotov:
+    path: '/home/block/HAR/database/GOTOV/Activity_Measurements/'
+    log_path: '/home/block/HAR/Linear/log/gotov/'
+    batch_size: 256
+    diam_internal: [60, 60]
+    heads_edge: 3
+    edge_drop: 0.23
+    model_type: "Single server Learning"
+    lr_edge: 2e-4
+    weight_decay: 1e-4
+    window_size: 32
+    step_size: 8
+    channel: 11
+    epoch: 50
+  opportunity:
+    log_path: '/home/block/HAR/Linear/log/opportunity/'
+    path: '/home/block/HAR/database/OpportunityUCIDataset/dataset/'
+    col: '/home/block/HAR/database/OpportunityUCIDataset/column_names.txt'
+    lbl: '/home/block/HAR/database/OpportunityUCIDataset/label_legend.txt'
+    batch_size: 128
+    diam_internal: [120, 60]
+    heads_edge: 3
+    edge_drop: 0.23
+    model_type: "Single server Learning"
+    lr_edge: 4e-5
+    weight_decay: 1e-5
+    window_size: 5
+    step_size: 3
+    channel: 79
+    epoch: 40
+  realdisp:
+    log_path: '/home/block/HAR/Linear/log/realdisp/'
+    path: '/home/block/HAR/database/realdisp/'
+    batch_size: 256
+    diam_internal: [150, 60]
+    heads_edge: 3
+    edge_drop: 0.25
+    model_type: "Single server Learning"
+    lr_edge: 3e-5
+    weight_decay: 1e-5
+    window_size: 32
+    step_size: 2
+    channel: 119
+    epoch: 30
+  skoda:
+    log_path: '/home/block/HAR/Linear/log/skoda/'
+    path: '/home/block/HAR/database/SkodaMiniCP_2015_08/right_classall_clean.mat'
+    batch_size: 256
+    split_ratio: 0.8
+    diam_internal: [120,60]
+    heads_edge: 3
+    edge_drop: 0.23
+    model_type: "Single server Learning"
+    lr_edge: 2e-5
+    weight_decay: 1e-4
+    window_size: 5
+    step_size: 2
+    channel: 71
+    epoch: 50
+  pamap2:
+    log_path: '/home/block/HAR/Linear/log/pamap2/'
+    path: '/home/block/HAR/database/PAMAP2_Dataset/Protocol/'
+    batch_size: 512
+    diam_internal: [120,60]
+    heads_edge: 3
+    edge_drop: 0.23
+    model_type: "Single server Learning"
+    lr_edge: 3e-5
+    weight_decay: 1e-4
+    window_size: 4
+    step_size: 2
+    channel: 38
+    epoch: 70
+  mhealth:
+    log_path: '/home/block/HAR/Linear/log/mhealth/'   
+    path: '/home/block/HAR/database/MHEALTHDATASET/'
+    batch_size: 128
+    diam_internal: [120,60]
+    heads_edge: 3
+    edge_drop: 0.23
+    model_type: "Single server Learning"
+    lr_edge: 2e-5
+    weight_decay: 1e-4
+    window_size: 38
+    step_size: 2
+    channel: 25
+    epoch: 30
