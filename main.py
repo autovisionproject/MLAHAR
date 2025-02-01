@@ -8,7 +8,7 @@ import scipy.io
 import torch.nn as nn
 from models.train import train, model_eval
 from utills.logger import save_logs
-from model_linear import MLA
+from MLA-HAR import MLA
 
 def set_seed(seed):
     #seed = 42
