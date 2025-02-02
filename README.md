@@ -1,1 +1,53 @@
-# MLA-HAR
+# Enhancing Cross-User Generalization in Human Activity Recognition with Adaptive Noise Scheduling and Linear Attention
+
+## Usage:
+This repository contains the implementation of the MLA based HAR mechanism using PyTorch. The code is organized as follows:
+- `models/MLAHAR.py`: Implementation of the MLAHAR module.
+- `models/train.py`: Script for training and evaluating the FFA-based human activity recognition model.
+- `utills/prepareDataset.py`: Script for data preprocessing.
+- `utills/graph.py`: Script for generating performance matrices.
+- `utills/logger.py`: Script to save model and performance matrices.
+- `main.py`:  Final script to run overall model.
+## Training 
+
+```
+-------------------------------------------------------------
+##Update config.yaml file as per target dataset 
+    Example :
+    skoda:
+        log_path: '/home/block/HAR/log/pamap2/'  ----> Update path
+        path: '/home/block/HAR/database/' ---> Update dataset path.
+
+##Input format:
+--------------------------------------------------------
+(myenv) block@l40s:~/HAR/Linear$ python main.py --h
+usage: main.py [-h] [--dsname DSNAME] [--epoch EPOCH] [--seed SEED]
+Process a dataset based on the dataset name.
+options:
+  -h, --help       show this help message and exit
+  --dsname DSNAME  Dataset name (choose from 'opportunity', 'realdisp', 'pamap2', 'mhealth')
+  --epoch EPOCH    Select epoch range (choose from 0-N)
+  --seed SEED      Set Seed value [42,24, etc]
+(myenv) block@l40s:~/HAR/Linear$
+
+##Run code:
+----------------------------------------------------
+ #python main.py --dsname <datasetname>   --epoch <epoch> --seed <seed-value>
+```
+### Requirements
+- `pandas version`: 2.0.3
+- `torch version`: 2.0.1+cu117
+- `numpy version`: 1.24.3
+- `scipy version`: 1.10.1
+- `matplotlib version`: 3.7.3
+- `seaborn version`: 0.12.2
+- `Python version`: 3.8.10 
+- `fvcore.nn version`: 0.1.5.post20221221
+- `sklearn version`: 1.3.1
+- `thop`:0.1.1-2209072238
+  
+## Class-wise Dataset Visualization
+| OPPORTUNITY Dataset| RealDisp Dataset| 
+|:-------------:|:-------------:|
+|![Image 1](models/stats/bar_chart_high.png)|![Image 2](models/stats/bar_chart_RD.png)|
+
