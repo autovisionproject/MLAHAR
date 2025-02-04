@@ -65,8 +65,8 @@ options:
 |:--------------:|:----------------:|
 | <img src="images/realdisp_accuracy_matrix.png" width="400"> | <img src="images/realdisp_Confusion_matrix.png" width="400"> |
 
-## 5 Ablation Study Results
-<img src="images/ablation.PNG" width="500"> 
+## 5. Ablation Study Results
+<img src="images/ablation.PNG" width="800"> 
 
 ## 6. t-SNE Representation of Learned Features
 | MHEALTH Dataset | OPPORTUNITY Dataset | PAMAP2 Dataset | REALDISP Dataset |
