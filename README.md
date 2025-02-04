@@ -65,7 +65,7 @@ options:
 |:--------------:|:----------------:|
 | <img src="images/realdisp_accuracy_matrix.png" width="400"> | <img src="images/realdisp_Confusion_matrix.png" width="400"> |
 
-### 6 Ablation Study Results
+## 5 Ablation Study Results
 <img src="images/ablation.PNG" width="500"> 
 
 ## 6. t-SNE Representation of Learned Features
