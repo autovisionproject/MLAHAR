@@ -51,11 +51,11 @@ options:
 ### 4.1 MHEALTH Dataset
 | Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
-| <img src="images/mhealth_accuracy_matrix.png" width="400"> | <img src="images/mhealth_Confusion_matrix.png" width="400"> |
+| <img src="images/mhealth_accuracy_matrix.png" width="300"> | <img src="images/mhealth_Confusion_matrix.png" width="300"> |
 ### 4.2 PAMAP2 Dataset
 | Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
-| <img src="images/pamap2_accuracy_matrix.png" width="400"> | <img src="images/pamap2_Confusion_matrix.png" width="400"> |
+| <img src="images/pamap2_accuracy_matrix.png" width="300"> | <img src="images/pamap2_Confusion_matrix.png" width="300"> |
 ### 4.3 OPPORTUNITY Dataset
 | Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
