@@ -52,7 +52,7 @@ options:
 | <img src="images/mhealth_tnse_pre.png" width="200"> | <img src="images/opp_tnse_pre.png" width="180"> | <img src="images/pamap2_tnse_pre.png" width="200"> | <img src="images/realdisp_tnse_pre.png" width="200"> |
 
 ## Model Generalization Analysis Across Test Subsets
-| Accuracy | F1-weighted | F1-macro |
+| Accuracy (%) | F1-weighted (%) | F1-macro (%) |
 |:--------:|:----------:|:--------:|
 | <img src="images/Accuracy.png" width="220"> | <img src="images/F1w.png" width="220"> | <img src="images/F1m.png" width="220"> |
 
