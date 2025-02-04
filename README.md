@@ -65,12 +65,15 @@ options:
 |:--------------:|:----------------:|
 | <img src="images/realdisp_accuracy_matrix.png" width="400"> | <img src="images/realdisp_Confusion_matrix.png" width="400"> |
 
-## 5. t-SNE Representation of Learned Features
+### 6 Ablation Study Results
+<img src="images/ablation.PNG" width="500"> 
+
+## 6. t-SNE Representation of Learned Features
 | MHEALTH Dataset | OPPORTUNITY Dataset | PAMAP2 Dataset | REALDISP Dataset |
 |:--------------:|:----------------:|:--------------:|:--------------:|
 | <img src="images/mhealth_tnse_pre.png" width="200"> | <img src="images/opp_tnse_pre.png" width="200"> | <img src="images/pamap2_tnse_pre.png" width="200"> | <img src="images/realdisp_tnse_pre.png" width="200"> |
 
-## 6. Model Generalization Analysis Across Test Subsets
+## 7. Model Generalization Analysis Across Test Subsets
 | Accuracy (%) | F1-weighted (%) | F1-macro (%) |
 |:--------:|:----------:|:--------:|
 | <img src="images/Accuracy.png" width="220"> | <img src="images/F1w.png" width="220"> | <img src="images/F1m.png" width="220"> |
