@@ -47,12 +47,14 @@ options:
 - `thop`:0.1.1-2209072238
   
 ## t-SNE Representation of Learned Features
-| MHEALTH Dataset| OPPORTUNITY Dataset| PAMAP2 Dataset| REALDISP Dataset| 
-|:-------------:|:-------------:|:-------------:|:-------------:|
-|![Image 1](images/mhealth_tnse_pre.png)|![Image 2](images/opp_tnse_pre.png)|![Image 1](images/pamap2_tnse_pre.png)|![Image 2](images/realdisp_tnse_pre.png)|
+| MHEALTH Dataset | OPPORTUNITY Dataset | PAMAP2 Dataset | REALDISP Dataset |
+|:--------------:|:----------------:|:--------------:|:--------------:|
+| <img src="images/mhealth_tnse_pre.png" width="200"> | <img src="images/opp_tnse_pre.png" width="150"> | <img src="images/pamap2_tnse_pre.png" width="200"> | <img src="images/realdisp_tnse_pre.png" width="200"> |
+|
 
-## Model generalization analysis across test subsets
-| Accuracy| F1-weighted| F1-macro| 
-|:-------------:|:-------------:|:-------------:|
-|![Image 1](images/Accuracy.png)|![Image 2](images/F1w.png)|![Image 1](images/F1m.png)|
+## Model Generalization Analysis Across Test Subsets
+| Accuracy | F1-weighted | F1-macro |
+|:--------:|:----------:|:--------:|
+| <img src="images/Accuracy.png" width="200"> | <img src="images/F1w.png" width="200"> | <img src="images/F1m.png" width="200"> |
+
 
