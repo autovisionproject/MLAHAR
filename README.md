@@ -63,7 +63,7 @@ options:
 ### 4.4 REALDISP Dataset
 | Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
-| <img src="images/realdisp_accuracy_matrix.png" width="400"> | <img src="images/realdisp_Confusion_matrix.png" width="400"> |
+| <img src="images/realdisp_accuracy_matrix.png" width="500"> | <img src="images/realdisp_Confusion_matrix.png" width="500"> |
 
 ## 5. Ablation Study Results
 <img src="images/ablation.PNG" width="800"> 
