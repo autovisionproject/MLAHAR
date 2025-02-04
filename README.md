@@ -46,16 +46,17 @@ options:
 - `sklearn version`: 1.3.1
 - `thop`:0.1.1-2209072238
 
-## Confusion Matrix PAMAP2 Dataset
+## Confusion Matrix 
+### MHEALTH Dataset
 | <img src="images/mhealth_accuracy_matrix.png" width="400"> | <img src="images/mhealth_Confusion_matrix.png" width="400"> |
 
-## Confusion Matrix PAMAP2 Dataset
+### PAMAP2 Dataset
 | <img src="images/pamap2_accuracy_matrix.png" width="400"> | <img src="images/pamap2_Confusion_matrix.png" width="400"> |
 
-## Confusion Matrix PAMAP2 Dataset
+### OPPORTUNITY Dataset
 | <img src="images/opportunity_accuracy_matrix.png" width="400"> | <img src="images/opportunity_Confusion_matrix.png" width="400"> |
 
-## Confusion Matrix PAMAP2 Dataset
+### REALDISP Dataset
 | <img src="images/realdisp_accuracy_matrix.png" width="400"> | <img src="images/realdisp_Confusion_matrix.png" width="400"> |
 
 ## t-SNE Representation of Learned Features
