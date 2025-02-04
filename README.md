@@ -49,7 +49,7 @@ options:
 ## t-SNE Representation of Learned Features
 | MHEALTH Dataset | OPPORTUNITY Dataset | PAMAP2 Dataset | REALDISP Dataset |
 |:--------------:|:----------------:|:--------------:|:--------------:|
-| <img src="images/mhealth_tnse_pre.png" width="200"> | <img src="images/opp_tnse_pre.png" width="180"> | <img src="images/pamap2_tnse_pre.png" width="200"> | <img src="images/realdisp_tnse_pre.png" width="200"> |
+| <img src="images/mhealth_tnse_pre.png" width="200"> | <img src="images/opp_tnse_pre.png" width="200"> | <img src="images/pamap2_tnse_pre.png" width="200"> | <img src="images/realdisp_tnse_pre.png" width="200"> |
 
 ## Model Generalization Analysis Across Test Subsets
 | Accuracy (%) | F1-weighted (%) | F1-macro (%) |
