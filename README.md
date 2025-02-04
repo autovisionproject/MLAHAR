@@ -76,6 +76,6 @@ options:
 ## 7. Model Generalization Analysis Across Test Subsets
 | Accuracy (%) | F1-weighted (%) | F1-macro (%) |
 |:--------:|:----------:|:--------:|
-| <img src="images/Accuracy.png" width="220"> | <img src="images/F1w.png" width="220"> | <img src="images/F1m.png" width="220"> |
+| <img src="images/Accuracy.png" width="300"> | <img src="images/F1w.png" width="300"> | <img src="images/F1m.png" width="300"> |
 
 
