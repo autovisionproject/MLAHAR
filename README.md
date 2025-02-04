@@ -49,15 +49,19 @@ options:
 ## Confusion Matrix 
 
 ### MHEALTH Dataset
+| Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
 | <img src="images/mhealth_accuracy_matrix.png" width="400"> | <img src="images/mhealth_Confusion_matrix.png" width="400"> |
 ### PAMAP2 Dataset
+| Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
 | <img src="images/pamap2_accuracy_matrix.png" width="400"> | <img src="images/pamap2_Confusion_matrix.png" width="400"> |
 ### OPPORTUNITY Dataset
+| Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
 | <img src="images/opportunity_accuracy_matrix.png" width="400"> | <img src="images/opportunity_Confusion_matrix.png" width="400"> |
 ### REALDISP Dataset
+| Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
 | <img src="images/realdisp_accuracy_matrix.png" width="400"> | <img src="images/realdisp_Confusion_matrix.png" width="400"> |
 
