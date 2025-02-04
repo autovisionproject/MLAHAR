@@ -47,15 +47,13 @@ options:
 - `thop`:0.1.1-2209072238
 
 ## Confusion Matrix 
+
 ### MHEALTH Dataset
 | <img src="images/mhealth_accuracy_matrix.png" width="400"> | <img src="images/mhealth_Confusion_matrix.png" width="400"> |
-
 ### PAMAP2 Dataset
 | <img src="images/pamap2_accuracy_matrix.png" width="400"> | <img src="images/pamap2_Confusion_matrix.png" width="400"> |
-
 ### OPPORTUNITY Dataset
 | <img src="images/opportunity_accuracy_matrix.png" width="400"> | <img src="images/opportunity_Confusion_matrix.png" width="400"> |
-
 ### REALDISP Dataset
 | <img src="images/realdisp_accuracy_matrix.png" width="400"> | <img src="images/realdisp_Confusion_matrix.png" width="400"> |
 
