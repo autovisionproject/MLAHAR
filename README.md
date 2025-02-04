@@ -46,8 +46,13 @@ options:
 - `sklearn version`: 1.3.1
 - `thop`:0.1.1-2209072238
   
-## Class-wise Dataset Visualization
+## t-SNE Representation of Learned Features
 | MHEALTH Dataset| OPPORTUNITY Dataset| PAMAP2 Dataset| REALDISP Dataset| 
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |![Image 1](images/mhealth_tnse_pre.png)|![Image 2](images/opp_tnse_pre.png)|![Image 1](images/pamap2_tnse_pre.png)|![Image 2](images/realdisp_tnse_pre.png)|
+
+## Model generalization analysis across test subsets
+| Accuracy| F1-weighted| F1-macro| 
+|:-------------:|:-------------:|:-------------:|
+|![Image 1](images/Accuracy.png)|![Image 2](images/F1w.png)|![Image 1](images/F1m.png)|
 
