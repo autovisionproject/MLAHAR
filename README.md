@@ -47,7 +47,7 @@ options:
 - `thop`:0.1.1-2209072238
   
 ## Class-wise Dataset Visualization
-| OPPORTUNITY Dataset| RealDisp Dataset| 
-|:-------------:|:-------------:|
-|![Image 1](models/stats/bar_chart_high.png)|![Image 2](models/stats/bar_chart_RD.png)|
+| MHEALTH Dataset| OPPORTUNITY Dataset| PAMAP2 Dataset| REALDISP Dataset| 
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|![Image 1](images/mhealth_tnse_pre.png)|![Image 2](images/opp_tnse_pre.png)|![Image 1](images/pamap2_tnse_pre.png)|![Image 2](images/realdisp_tnse_pre.png)|
 
