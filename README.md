@@ -55,12 +55,12 @@ options:
 ### MHEALTH and PAMAP2 Datasets
 | Mhealth Class-Wise Accuracy | Mhealth Class-Wise Prediction | PAMAP2 Class-Wise Accuracy | PAMAP2 Class-Wise Prediction |
 |:--------------:|:----------------:|:--------------:|:----------------:|
-| <img src="images/mhealth_accuracy_matrix.png" width="380"> | <img src="images/mhealth_Confusion_matrix.png" width="380"> |<img src="images/pamap2_accuracy_matrix.png" width="380"> | <img src="images/pamap2_Confusion_matrix.png" width="380"> |
+| <img src="images/mhealth_accuracy_matrix.png" width="380"> | <img src="images/mhealth_Confusion_matrix.png" width="380"> |<img src="images/pamap2_accuracy_matrix.png" width="400"> | <img src="images/pamap2_Confusion_matrix.png" width="380"> |
 
 ### 4.2 OPPORTUNITY Dataset
 | Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
-| <img src="images/opportunity_accuracy_matrix.png" width="360"> | <img src="images/opportunity_Confusion_matrix.png" width="460"> |
+| <img src="images/opportunity_accuracy_matrix.png" width="360"> | <img src="images/opportunity_Confusion_matrix.png" width="360"> |
 ### 4.3 REALDISP Dataset
 | Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
@@ -72,7 +72,7 @@ options:
 ## 6. t-SNE Representation of Learned Features
 | MHEALTH Dataset | OPPORTUNITY Dataset | PAMAP2 Dataset | REALDISP Dataset |
 |:--------------:|:----------------:|:--------------:|:--------------:|
-| <img src="images/mhealth_tnse_pre.png" width="220"> | <img src="images/opp_tnse_pre.png" width="220"> | <img src="images/pamap2_tnse_pre.png" width="220"> | <img src="images/realdisp_tnse_pre.png" width="220"> |
+| <img src="images/mhealth_tnse_pre.png" width="250"> | <img src="images/opp_tnse_pre.png" width="250"> | <img src="images/pamap2_tnse_pre.png" width="250"> | <img src="images/realdisp_tnse_pre.png" width="250"> |
 
 ## 7. Model Generalization Analysis Across Test Subsets
 | Accuracy (%) | F1-weighted (%) | F1-macro (%) |
