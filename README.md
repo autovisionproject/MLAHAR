@@ -51,20 +51,20 @@ options:
 |:--------------:|:----------------:|:--------------:|:----------------:|
 | <img src="images/PAMAP2.png" width="350"> | <img src="images/MHEALTH.png" width="350"> | <img src="images/Opportunity.png" width="350"> | <img src="images/REALDISP.png" width="350"> |
 
-## 4. Confusion Matrix 
+## 4.1 Confusion Matrix 
 ### MHEALTH and PAMAP2 Datasets
 | Mhealth Class-Wise Accuracy | Mhealth Class-Wise Prediction | PAMAP2 Class-Wise Accuracy | PAMAP2 Class-Wise Prediction |
 |:--------------:|:----------------:|:--------------:|:----------------:|
-| <img src="images/mhealth_accuracy_matrix.png" width="360"> | <img src="images/mhealth_Confusion_matrix.png" width="360"> |<img src="images/pamap2_accuracy_matrix.png" width="360"> | <img src="images/pamap2_Confusion_matrix.png" width="360"> |
+| <img src="images/mhealth_accuracy_matrix.png" width="380"> | <img src="images/mhealth_Confusion_matrix.png" width="380"> |<img src="images/pamap2_accuracy_matrix.png" width="380"> | <img src="images/pamap2_Confusion_matrix.png" width="380"> |
 
-### 4.3 OPPORTUNITY Dataset
+### 4.2 OPPORTUNITY Dataset
 | Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
-| <img src="images/opportunity_accuracy_matrix.png" width="400"> | <img src="images/opportunity_Confusion_matrix.png" width="400"> |
-### 4.4 REALDISP Dataset
+| <img src="images/opportunity_accuracy_matrix.png" width="360"> | <img src="images/opportunity_Confusion_matrix.png" width="460"> |
+### 4.3 REALDISP Dataset
 | Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
-| <img src="images/realdisp_accuracy_matrix.png" width="500"> | <img src="images/realdisp_Confusion_matrix.png" width="500"> |
+| <img src="images/realdisp_accuracy_matrix.png" width="400"> | <img src="images/realdisp_Confusion_matrix.png" width="400"> |
 
 ## 5. Ablation Study Results
 <img src="images/ablation.PNG" width="800"> 
