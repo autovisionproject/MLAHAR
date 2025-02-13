@@ -47,9 +47,9 @@ options:
 - `thop`:0.1.1-2209072238
 
 ## 4. Class-wise Satset Distribution 
-| PAMAP2 | MHEALTH |OPPORTUNITY | REALFISP |
+| PAMAP2 | MHEALTH |OPPORTUNITY | REALDISP |
 |:--------------:|:----------------:|:--------------:|:----------------:|
-| <img src="images/PAMAP2.png" width="350"> | <img src="images/MHEALTH.png" width="350"> | <img src="images/Opportunity.png" width="350"> | <img src="images/REALFISP.png" width="350"> |
+| <img src="images/PAMAP2.png" width="350"> | <img src="images/MHEALTH.png" width="350"> | <img src="images/Opportunity.png" width="350"> | <img src="images/REALDISP.png" width="350"> |
 
 ## 4. Confusion Matrix 
 
