@@ -60,7 +60,7 @@ options:
 ### 4.2 OPPORTUNITY Dataset
 | Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
-| <img src="images/opportunity_accuracy_matrix.png" width="360"> | <img src="images/opportunity_Confusion_matrix.png" width="360"> |
+| <img src="images/opportunity_accuracy_matrix.png" width="360"> | <img src="images/opportunity_Confusion_matrix.png" width="320"> |
 ### 4.3 REALDISP Dataset
 | Class-Wise Accuracy | Class-Wise Prediction |
 |:--------------:|:----------------:|
