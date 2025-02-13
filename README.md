@@ -52,9 +52,10 @@ options:
 | <img src="images/PAMAP2.png" width="350"> | <img src="images/MHEALTH.png" width="350"> | <img src="images/Opportunity.png" width="350"> | <img src="images/REALDISP.png" width="350"> |
 
 ## 4. Confusion Matrix 
-| MHEALTH Class-Wise Accuracy | MHEALTH Class-Wise Prediction | PAMAP2 Class-Wise Accuracy | PAMAP2 Class-Wise Prediction |
+### MHEALTH and PAMAP2 Datasets
+| Mhealth Class-Wise Accuracy | Mhealth Class-Wise Prediction | PAMAP2 Class-Wise Accuracy | PAMAP2 Class-Wise Prediction |
 |:--------------:|:----------------:|:--------------:|:----------------:|
-| <img src="images/mhealth_accuracy_matrix.png" width="350"> | <img src="images/mhealth_Confusion_matrix.png" width="350"> |<img src="images/pamap2_accuracy_matrix.png" width="350"> | <img src="images/pamap2_Confusion_matrix.png" width="350"> |
+| <img src="images/mhealth_accuracy_matrix.png" width="360"> | <img src="images/mhealth_Confusion_matrix.png" width="360"> |<img src="images/pamap2_accuracy_matrix.png" width="360"> | <img src="images/pamap2_Confusion_matrix.png" width="360"> |
 
 ### 4.3 OPPORTUNITY Dataset
 | Class-Wise Accuracy | Class-Wise Prediction |
