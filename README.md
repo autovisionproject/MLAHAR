@@ -46,7 +46,7 @@ options:
 - `sklearn version`: 1.3.1
 - `thop`:0.1.1-2209072238
 
-## 4. Class-wise Satset Distribution 
+## 4. Class-wise Dataset Distribution 
 | PAMAP2 | MHEALTH |OPPORTUNITY | REALDISP |
 |:--------------:|:----------------:|:--------------:|:----------------:|
 | <img src="images/PAMAP2.png" width="350"> | <img src="images/MHEALTH.png" width="350"> | <img src="images/Opportunity.png" width="350"> | <img src="images/REALDISP.png" width="350"> |
