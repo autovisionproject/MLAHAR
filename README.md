@@ -51,30 +51,13 @@ options:
 |:--------------:|:----------------:|:--------------:|:----------------:|
 | <img src="images/PAMAP2.png" width="350"> | <img src="images/MHEALTH.png" width="350"> | <img src="images/Opportunity.png" width="350"> | <img src="images/REALDISP.png" width="350"> |
 
-## 4.1 Confusion Matrix 
-### MHEALTH and PAMAP2 Datasets
-| Mhealth Class-Wise Accuracy | Mhealth Class-Wise Prediction | PAMAP2 Class-Wise Accuracy | PAMAP2 Class-Wise Prediction |
-|:--------------:|:----------------:|:--------------:|:----------------:|
-| <img src="images/mhealth_accuracy_matrix.png" width="380"> | <img src="images/mhealth_Confusion_matrix.png" width="380"> |<img src="images/pamap2_accuracy_matrix.png" width="400"> | <img src="images/pamap2_Confusion_matrix.png" width="380"> |
 
-### 4.2 OPPORTUNITY Dataset
-| Class-Wise Accuracy | Class-Wise Prediction |
-|:--------------:|:----------------:|
-| <img src="images/opportunity_accuracy_matrix.png" width="360"> | <img src="images/opportunity_Confusion_matrix.png" width="320"> |
-### 4.3 REALDISP Dataset
-| Class-Wise Accuracy | Class-Wise Prediction |
-|:--------------:|:----------------:|
-| <img src="images/realdisp_accuracy_matrix.png" width="400"> | <img src="images/realdisp_Confusion_matrix.png" width="400"> |
-
-## 5. Ablation Study Results
-<img src="images/ablation.PNG" width="800"> 
-
-## 6. t-SNE Representation of Learned Features
+## 4.1 t-SNE Representation of Learned Features
 | MHEALTH Dataset | OPPORTUNITY Dataset | PAMAP2 Dataset | REALDISP Dataset |
 |:--------------:|:----------------:|:--------------:|:--------------:|
 | <img src="images/mhealth_tnse_pre.png" width="230"> | <img src="images/opp_tnse_pre.png" width="230"> | <img src="images/pamap2_tnse_pre.png" width="230"> | <img src="images/realdisp_tnse_pre.png" width="230"> |
 
-## 7. Model Generalization Analysis Across Test Subsets
+## 4.2 Model Generalization Analysis Across Test Subsets
 | Accuracy (%) | F1-weighted (%) | F1-macro (%) |
 |:--------:|:----------:|:--------:|
 | <img src="images/Accuracy.png" width="285"> | <img src="images/F1w.png" width="285"> | <img src="images/F1m.png" width="285"> |
