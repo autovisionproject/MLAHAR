@@ -46,3 +46,16 @@ options:
 - `sklearn version`: 1.3.1
 - `thop`:0.1.1-2209072238
 
+## Citation
+* Please cite this work if you find it useful for your research.
+```
+@ARTICLE{11534932,
+  author={Nagar, Monu and Sikarwar, Himani and Das, Debasis},
+  journal={IEEE Sensors Journal}, 
+  title={Enhancing Cross-User Generalization in Human Activity Recognition With Adaptive Noise Scheduling and Linear Attention}, 
+  year={2026},
+  volume={26},
+  number={14},
+  pages={21626-21635},
+  doi={10.1109/JSEN.2026.3694802}}
+```
